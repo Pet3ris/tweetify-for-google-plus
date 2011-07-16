@@ -1,0 +1,25 @@
+/* comments */
+.a-p-M-T-gi-xc .a-f-i-Xb,    .a-p-M-T-gi-xc .a-b-f-i-Xb,
+/* "Add comment" */
+.a-p-M-T-gi-xc .a-f-i-W-O,   .a-p-M-T-gi-xc .a-b-f-i-W-O,
+/* +1s and shares */
+.a-p-M-T-gi-xc .a-f-i-Hg-Uf, .a-p-M-T-gi-xc .a-b-f-i-Hg-Uf,
+/* pull-in references */
+.a-p-M-T-gi-xc .a-b-f-S-oa,
+/* Incoming stream headers */
+.a-p-M-T-gi-xc .a-f-i-Jf-Om, .a-p-M-T-gi-xc .a-b-f-i-Jf-Om,
+
+/** subshares **/
+/* who is sharing */
+.a-p-M-T-gi-xc .a-f-i-u-go,
+/* the shared content */
+.a-p-M-T-gi-xc .a-f-i-u-qb,
+
+/* geotag */
+.a-p-M-T-gi-xc .a-b-f-i-p-Dc-A,
+/* "Expand this Post" */
+.a-p-M-T-gi-xc .a-b-f-i-p-gc-h,
+/* "+1 Comment Share" */
+.a-p-M-T-gi-xc .a-f-i-bg {
+  display: none;
+}
